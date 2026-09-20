@@ -63,7 +63,7 @@ The dashboard allows users to filter the analysis by:
 - Pizza Size
 ---
 ## Dashboard Preview
-![Pizza Sales Performance Dashboard](Screenshots/Pizza_Sales_Dashboard.png)
+![Pizza Sales Performance Dashboard](./Pizza_Sales_Dashboard.jpg)
 ---
 ## Key Insights
 The dashboard enables analysis of:
